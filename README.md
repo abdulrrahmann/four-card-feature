@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section solution
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -12,7 +12,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-
 
 ## Overview
 
@@ -26,12 +25,10 @@ Users should be able to:
 
 ![](images/screenshot.png)
 
-
-
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-wC0OOGhbM_)
+- Live Site URL: [live site URL](https://abdulrrahmann.github.io/four-card-feature/)
 
 ## My process
 
@@ -42,12 +39,9 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
 ### Useful resources
 
 - [mdn CSS grid layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids) - This is a good article helped me to refrersh my knowledge about css grid layout.
-
-
 
 ## Author
 
